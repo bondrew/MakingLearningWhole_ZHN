@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.1)  14 FEB 2025 07:26
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.1)  25 FEB 2025 06:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -588,12 +588,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 第五章
 [49] [50] [51]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5637) has occurred while \output is active []
 
- [52] [53]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54] [55]) [56] (./content/chpt5.tex
+ [52] [53] [54] [55]) [56] (./content/chpt5.tex
 第六章
 [57
 
@@ -633,10 +630,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 11473 strings out of 474773
- 334116 string characters out of 5757725
- 1964839 words of memory out of 5000000
- 33428 multiletter control sequences out of 15000+600000
+ 11547 strings out of 474773
+ 339042 string characters out of 5757725
+ 1963839 words of memory out of 5000000
+ 33502 multiletter control sequences out of 15000+600000
  567223 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,8n,97p,640b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
